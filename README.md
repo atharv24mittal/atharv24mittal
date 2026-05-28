@@ -36,7 +36,7 @@ I build things that ship. I research things that matter. And I've been on enough
 
 | Project | Description | Stack |
 |---|---|---|
-| [CareSync 24/7](https://care-sync24-7.vercel.app/) | LLM-powered healthcare platform with medical chatbot | Next.js, Groq, Firebase |
+| [CareSync 24/7](https://care-sync-24-7-v2.vercel.app/) | LLM-powered healthcare platform with medical chatbot | Next.js, Groq, Firebase |
 | [CitizenEmpower](https://ecipromise.com/) | IIM Mumbai funded civic engagement platform | Next.js, LLMs |
 | [Pustak Khazana](https://pustak-khazana.vercel.app) | Full-stack book rental startup (Mantra Labs) | Next.js, Firebase, ML |
 | [Shunya ECC](https://shunyaeccpes.vercel.app) | Official club website for PES University | Next.js |
